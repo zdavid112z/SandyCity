@@ -1,0 +1,10 @@
+Libraries used:
+- Assimp
+- Bullet
+- Freeimage
+- GLEW
+- SDL2
+- GLM
+- ZLib
+- OpenAL
+- OpenGL

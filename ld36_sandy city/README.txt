@@ -1,0 +1,1 @@
+Run the programs in the redist folder before launching the game.
